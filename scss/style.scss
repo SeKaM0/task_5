@@ -284,6 +284,7 @@ span {
       margin: 0 10px;
       display: inline;
       a{
+        padding: 8px 15px;
         display: inline-block;
         width: 84px;
         height: 38px;
@@ -299,7 +300,6 @@ span {
         text-align:center ;
         span{
           text-align: center;
-          vertical-align: -moz-middle-with-baseline;
         }
       }
       a:hover{
@@ -474,11 +474,11 @@ span {
   background-color: $darkblue;
   text-align: center;
   ul.footer_links {
-    padding: 48px 0px 28px 0px;
+    padding: 58px 0px 28px 0px;
     text-align: center;
 
     li {
-      margin: 0 30px;
+      margin: 10px 30px;
       display: inline;
 
       a {
@@ -496,7 +496,6 @@ span {
 
         span {
           text-align: center;
-          vertical-align: -moz-middle-with-baseline;
         }
       }
 

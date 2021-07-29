@@ -287,6 +287,7 @@ body {
   display: inline;
 }
 .portfolio ul.portfolio-nav li a {
+  padding: 8px 15px;
   display: inline-block;
   width: 84px;
   height: 38px;
@@ -303,7 +304,6 @@ body {
 }
 .portfolio ul.portfolio-nav li a span {
   text-align: center;
-  vertical-align: -moz-middle-with-baseline;
 }
 .portfolio ul.portfolio-nav li a:hover {
   background-color: white;
@@ -471,11 +471,11 @@ body {
   text-align: center;
 }
 .footer ul.footer_links {
-  padding: 48px 0px 28px 0px;
+  padding: 58px 0px 28px 0px;
   text-align: center;
 }
 .footer ul.footer_links li {
-  margin: 0 30px;
+  margin: 10px 30px;
   display: inline;
 }
 .footer ul.footer_links li a {
@@ -493,7 +493,6 @@ body {
 }
 .footer ul.footer_links li a span {
   text-align: center;
-  vertical-align: -moz-middle-with-baseline;
 }
 .footer ul.footer_links li a:hover {
   color: #30bae7;
